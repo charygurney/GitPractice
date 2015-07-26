@@ -1,2 +1,4 @@
 Ward: This is a text file
+Wise: yes, this is a file
 Ward: that's what I said...
+
